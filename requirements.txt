@@ -1,0 +1,13 @@
+torch
+torchvision
+tensorflow
+keras
+numpy
+pickle
+opencv-python
+matplotlib
+seaborn
+plotly
+scikit-learn
+pandas
+scipy
