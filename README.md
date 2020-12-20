@@ -2,7 +2,8 @@
 ### State of the art fashion recommendation system capturing user preference and capability of attribute preference interpretation
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pai-bpr-personalized-outfit-recommendation/preference-mapping-on-iqoon3000)](https://paperswithcode.com/sota/preference-mapping-on-iqoon3000?p=pai-bpr-personalized-outfit-recommendation)
-The whole project was implemented on Google Colab, hence it is suggested to run it there itself!!
+
+- The whole project was implemented on Google Colab, hence it is suggested to run it there itself!!
 
 ## folder structure for Code files
 
