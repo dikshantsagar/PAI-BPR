@@ -22,4 +22,14 @@
 
 ## Use Citation
 
-Sagar, Dikshant, et al. “PAI-BPR: Personalized Outfit Recommendation Scheme with Attribute-Wise Interpretability.” ArXiv:2008.01780 [Cs], Aug. 2020. arXiv.org, http://arxiv.org/abs/2008.01780.
+```BibTeX
+@misc{sagar2020paibpr,
+      title={PAI-BPR: Personalized Outfit Recommendation Scheme with Attribute-wise Interpretability}, 
+      author={Dikshant Sagar and Jatin Garg and Prarthana Kansal and Sejal Bhalla and Rajiv Ratn Shah and Yi Yu},
+      year={2020},
+      eprint={2008.01780},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+```
+
