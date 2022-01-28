@@ -1,2 +1,0 @@
-- data folder contents will be shared only on verified requests
-- forward your requests on dikshant17339@iiitd.ac.in
