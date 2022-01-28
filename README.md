@@ -15,8 +15,8 @@
 - Testing_Model.pynb - Notebook visualising our SOTA model and its predictions and outputs
 - main.ipynb - To run train.py with the desired requirements
 
-* "Attribute_keras.ipynb" and "GetAttribute.ipynb" extract visual features from an image which reside in data folder.
-* Model is already trained and resides in data folder.
+* "Attribute_keras.ipynb" and "GetAttribute.ipynb" extract visual features from an image .
+* For the dataset please contact the original curators from this [Paper](https://xuemengsong.github.io/fp506-songA.pdf)
 
 
 
